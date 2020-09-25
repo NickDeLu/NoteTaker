@@ -1,5 +1,5 @@
 # NoteTaker
-This is a note taking app that uses dynamic cards that save your notes.
+This is a note taking app that uses dynamic cards to save your notes.
 
 # Saving Feature
 All notes are saved automatically into an array called notes inside your device's localStorage.
